@@ -1,4 +1,5 @@
 
+
 # PRAKTIKUM PEMROGRAMAN WEB 3
 
 ## Praktikum
@@ -94,7 +95,7 @@ Form pada kode dibawah ini menggunakan atribut `method="get"` untuk sekedar meng
 
 Tag yang digunakan untuk membuat **dropdown** adalah tag `<select>` dengan tag `<option>` di dalamnya untuk mendefinisikan nama nilai dan diisi atribut `value` yang digunakan untuk mendifinisikan nilai, yang akan dikirim ke halaman yang dimaksud. Dalam kasus ini adalah "submitdatabarang.php" yang ada pada tag `<form>`.
 
-Sedangkan untuk membuat **listbox** betuk yang digunakan hampir sama dengan **dropdown**. Perbedaannya adalah terdapat atribut `multiple` pada tag `<select>` yang digunkan untuk memilih item secara ganda. Dengan menggunakan atribut `multiple` maka listbox akan dibuat secara otomatis.
+Sedangkan untuk membuat **listbox** bentuk yang digunakan hampir sama dengan **dropdown**. Perbedaannya adalah terdapat atribut `multiple` pada tag `<select>` yang digunakan untuk memilih item secara ganda. Dengan menggunakan atribut `multiple` maka listbox akan dibuat secara otomatis.
 
 ![enter image description here](https://github.com/antonmartinus72/Lab3Web/raw/main/assets/9_code.jpg)
 
@@ -103,4 +104,4 @@ Data dikirim dengan menggunakan tombol hijau yang ada pada bagian bawah halaman.
 
 ![enter image description here](https://github.com/antonmartinus72/Lab3Web/raw/main/assets/10_ss.jpg)
 
-Sekian, Terimakasih
+Sekian & terimakasih
